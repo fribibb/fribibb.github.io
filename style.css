@@ -1,0 +1,9 @@
+html {
+  background: #333;
+  background-image: url(gh.svg), linear-gradient(to top left, #131920, #312e35);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: 250px auto, cover;
+  height: 100%;
+  width: 100%;
+}
